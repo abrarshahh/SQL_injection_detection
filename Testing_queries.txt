@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------Some queries for testing the website-----------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1) 1=1
+
+2)  /*I am at a loss to find the words to express how bad I thought this film was. The initial precept was promising, but in all respects afterwards it was
+    totally awful. Let's run through the main points. Plot - good initial idea but truly terrible development. There were many points when I thought "no, 
+    nobody would do something that stupid". The ending was amazingly anticlimactic. Characterisation - all of the characters were either completely bland 
+    or grotesque caricatures. I ke*/select sleep ( 5 ) --
+
+3) Smartly written, well acted, intense an
+
+4) This is a great movie. When two people from different backgr"-5078 union all select 9708,9708--
+
+5) WHAT AN AWESOME FILM!!!
+
+6) Cinematically, this film stinks. So does a lot of the acting. But I<br /><br />don't care. If there is a strong representation of what th
+
+7) Seven Pounds star
